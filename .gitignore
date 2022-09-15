@@ -1,5 +1,7 @@
-# vscode workspace
+# local workspace
 .vscode/
+TestProject/
+local_Readme.md
 
 # Prerequisites
 *.d
@@ -58,6 +60,3 @@ dkms.conf
 Listings/
 Objects/
 *.uv*
-
-# local test
-TestProject/

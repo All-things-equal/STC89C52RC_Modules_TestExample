@@ -1,3 +1,6 @@
+# vscode workspace
+.vscode/
+
 # Prerequisites
 *.d
 
@@ -50,3 +53,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Keil uVision5
+Listings/
+Objects/
+*.uv*
+
+# local test
+TestProject/

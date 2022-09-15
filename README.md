@@ -6,7 +6,7 @@ STC89C52-MCU's Modules Demo
 
 ---
 
-#### WorkSpace Environment
+### WorkSpace Environment
 
 ```bash
 # Keil uVision5
@@ -15,9 +15,11 @@ STC89C52-MCU's Modules Demo
 
 ---
 
-![A2 2022](assets/img/A2.jpg)
+<img src="assets/img/A2.jpg" alt="A2 2022" width="50%" height="50%">
 
-#### Modules
+---
+
+### Modules
 
 - [s2e1 - 点亮一个 LED](s2e1/)
 - [s2e2 - LED 闪烁](s2e2/)

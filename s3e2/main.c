@@ -8,7 +8,7 @@
 void Delay(unsigned int time) //@11.0592MHz
 {
       unsigned char i, j;
-      while (--time)
+      while (time--)
       {
             _nop_();
             i = 2;

@@ -1,4 +1,5 @@
 #include <INTRINS.H>
+
 /**
  * @brief 延时函数, 适用11.0592Mhz
  * @param time 延时时间，单位ms
@@ -7,7 +8,7 @@
 void Delay(unsigned int time) //@11.0592MHz
 {
       unsigned char i, j;
-      while (--time)
+      while (time--)
       {
             _nop_();
             i = 2;
